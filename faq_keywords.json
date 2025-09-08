@@ -1,0 +1,650 @@
+[
+  {
+    "question": "Request for more information?",
+    "keywords": [
+      "request information",
+      "request",
+      "information",
+      "email",
+      "extending",
+      "experience needed",
+      "experience"
+    ]
+  },
+  {
+    "question": "How does JOBJACK work?",
+    "keywords": [
+      "work",
+      "jobjack work",
+      "does jobjack",
+      "does",
+      "jobjack",
+      "additional information",
+      "error saving"
+    ]
+  },
+  {
+    "question": "Is JOBJACK a scam?",
+    "keywords": [
+      "jobjack scam",
+      "scam",
+      "jobjack",
+      "active account",
+      "employment status",
+      "feedback",
+      "extending contracts"
+    ]
+  },
+  {
+    "question": "Call me?",
+    "keywords": [
+      "work",
+      "jobjack app",
+      "feedback",
+      "extending contracts",
+      "extending",
+      "experience needed",
+      "experience"
+    ]
+  },
+  {
+    "question": "Not receiving job notifications anymore?",
+    "keywords": [
+      "job notifications",
+      "anymore",
+      "receiving job",
+      "receiving",
+      "notifications anymore",
+      "notifications",
+      "job"
+    ]
+  },
+  {
+    "question": "Looking for a job - Already registered?",
+    "keywords": [
+      "job registered",
+      "looking",
+      "registered",
+      "looking job",
+      "job",
+      "extending contracts",
+      "extending"
+    ]
+  },
+  {
+    "question": "Forgot password – send password link?",
+    "keywords": [
+      "password",
+      "send",
+      "send password",
+      "password link",
+      "forgot",
+      "forgot password",
+      "password send"
+    ]
+  },
+  {
+    "question": "Verification info?",
+    "keywords": [
+      "info",
+      "verification info",
+      "verification",
+      "work",
+      "extending contracts",
+      "extending",
+      "experience needed"
+    ]
+  },
+  {
+    "question": "Information verified?",
+    "keywords": [
+      "verified",
+      "information verified",
+      "information",
+      "email",
+      "extending contracts",
+      "extending",
+      "experience needed"
+    ]
+  },
+  {
+    "question": "Can’t remember information?",
+    "keywords": [
+      "remember",
+      "remember information",
+      "information",
+      "work",
+      "email",
+      "extending",
+      "experience needed"
+    ]
+  },
+  {
+    "question": "Active account?",
+    "keywords": [
+      "active",
+      "active account",
+      "account",
+      "employment status",
+      "feedback",
+      "extending contracts",
+      "extending"
+    ]
+  },
+  {
+    "question": "Can’t provide correct information?",
+    "keywords": [
+      "provide",
+      "correct",
+      "provide correct",
+      "correct information",
+      "information",
+      "employment status",
+      "extending"
+    ]
+  },
+  {
+    "question": "I want to start fresh / create a new account?",
+    "keywords": [
+      "new",
+      "fresh create",
+      "create new",
+      "want start",
+      "want",
+      "create",
+      "new account"
+    ]
+  },
+  {
+    "question": "Data?",
+    "keywords": [
+      "data",
+      "work",
+      "employment status",
+      "feedback",
+      "extending contracts",
+      "extending",
+      "experience needed"
+    ]
+  },
+  {
+    "question": "Login with email?",
+    "keywords": [
+      "email",
+      "login",
+      "login email",
+      "employment status",
+      "feedback",
+      "extending contracts",
+      "extending"
+    ]
+  },
+  {
+    "question": "ID linked?",
+    "keywords": [
+      "linked",
+      "id linked",
+      "id",
+      "work",
+      "employment status",
+      "extending contracts",
+      "extending"
+    ]
+  },
+  {
+    "question": "Already deleted account?",
+    "keywords": [
+      "deleted",
+      "deleted account",
+      "account",
+      "job notifications",
+      "feedback",
+      "extending",
+      "experience needed"
+    ]
+  },
+  {
+    "question": "Error when saving profile?",
+    "keywords": [
+      "saving profile",
+      "saving",
+      "error saving",
+      "error",
+      "profile",
+      "work",
+      "extending"
+    ]
+  },
+  {
+    "question": "JOBJACK App?",
+    "keywords": [
+      "jobjack app",
+      "app",
+      "jobjack",
+      "job notifications",
+      "employment",
+      "extending contracts",
+      "extending"
+    ]
+  },
+  {
+    "question": "Apply by location?",
+    "keywords": [
+      "apply location",
+      "apply",
+      "location",
+      "employment status",
+      "flagged",
+      "feedback",
+      "extending contracts"
+    ]
+  },
+  {
+    "question": "Flagged Profile?",
+    "keywords": [
+      "flagged profile",
+      "flagged",
+      "profile",
+      "displaying",
+      "does",
+      "feedback",
+      "extending contracts"
+    ]
+  },
+  {
+    "question": "100% Profile?",
+    "keywords": [
+      "profile",
+      "work",
+      "deleted",
+      "feedback",
+      "extending contracts",
+      "extending",
+      "experience needed"
+    ]
+  },
+  {
+    "question": "Tax number needed?",
+    "keywords": [
+      "number needed",
+      "tax",
+      "tax number",
+      "number",
+      "needed",
+      "feedback",
+      "extending contracts"
+    ]
+  },
+  {
+    "question": "Bad credit score/debt?",
+    "keywords": [
+      "score debt",
+      "debt",
+      "bad credit",
+      "credit score",
+      "credit",
+      "score",
+      "bad"
+    ]
+  },
+  {
+    "question": "Experience needed?",
+    "keywords": [
+      "experience needed",
+      "needed",
+      "experience",
+      "work",
+      "flagged profile",
+      "feedback",
+      "extending contracts"
+    ]
+  },
+  {
+    "question": "Age restriction?",
+    "keywords": [
+      "age",
+      "age restriction",
+      "restriction",
+      "work",
+      "employment status",
+      "feedback",
+      "extending contracts"
+    ]
+  },
+  {
+    "question": "Withdrew by mistake?",
+    "keywords": [
+      "withdrew",
+      "withdrew mistake",
+      "mistake",
+      "work",
+      "employment status",
+      "feedback",
+      "extending contracts"
+    ]
+  },
+  {
+    "question": "Additional Information?",
+    "keywords": [
+      "additional",
+      "additional information",
+      "information",
+      "work",
+      "feedback",
+      "extending contracts",
+      "extending"
+    ]
+  },
+  {
+    "question": "Change employment status?",
+    "keywords": [
+      "change employment",
+      "status",
+      "employment",
+      "employment status",
+      "change",
+      "work",
+      "error saving"
+    ]
+  },
+  {
+    "question": "Change phone number?",
+    "keywords": [
+      "change phone",
+      "phone",
+      "phone number",
+      "number",
+      "change",
+      "work",
+      "error saving"
+    ]
+  },
+  {
+    "question": "Change nationality?",
+    "keywords": [
+      "change nationality",
+      "nationality",
+      "change",
+      "error saving",
+      "flagged",
+      "feedback",
+      "extending contracts"
+    ]
+  },
+  {
+    "question": "Change ID?",
+    "keywords": [
+      "change id",
+      "id",
+      "change",
+      "flagged profile",
+      "flagged",
+      "feedback",
+      "extending contracts"
+    ]
+  },
+  {
+    "question": "Change Location?",
+    "keywords": [
+      "change location",
+      "location",
+      "change",
+      "work",
+      "error saving",
+      "flagged",
+      "feedback"
+    ]
+  },
+  {
+    "question": "Change experience?",
+    "keywords": [
+      "change experience",
+      "experience",
+      "change",
+      "error",
+      "flagged",
+      "feedback",
+      "extending contracts"
+    ]
+  },
+  {
+    "question": "Change profile picture?",
+    "keywords": [
+      "profile picture",
+      "change profile",
+      "picture",
+      "profile",
+      "change",
+      "extending",
+      "experience needed"
+    ]
+  },
+  {
+    "question": "Delete Profile?",
+    "keywords": [
+      "delete profile",
+      "delete",
+      "profile",
+      "employment status",
+      "extending contracts",
+      "extending",
+      "experience needed"
+    ]
+  },
+  {
+    "question": "CV Download?",
+    "keywords": [
+      "cv download",
+      "cv",
+      "download",
+      "work",
+      "employment status",
+      "extending contracts",
+      "extending"
+    ]
+  },
+  {
+    "question": "Why does it not save when I am done?",
+    "keywords": [
+      "does save",
+      "save",
+      "does",
+      "work",
+      "employment status",
+      "extending contracts",
+      "extending"
+    ]
+  },
+  {
+    "question": "How to download a certificate?",
+    "keywords": [
+      "certificate",
+      "download certificate",
+      "download",
+      "work",
+      "error",
+      "feedback",
+      "extending contracts"
+    ]
+  },
+  {
+    "question": "Tips improve profile?",
+    "keywords": [
+      "improve profile",
+      "tips improve",
+      "tips",
+      "improve",
+      "profile",
+      "work",
+      "extending"
+    ]
+  },
+  {
+    "question": "Unsuccessful?",
+    "keywords": [
+      "unsuccessful",
+      "work",
+      "employment",
+      "feedback",
+      "extending contracts",
+      "extending",
+      "experience needed"
+    ]
+  },
+  {
+    "question": "Appointed, no feedback?",
+    "keywords": [
+      "appointed feedback",
+      "appointed",
+      "feedback",
+      "work",
+      "error",
+      "extending contracts",
+      "extending"
+    ]
+  },
+  {
+    "question": "How long till feedback?",
+    "keywords": [
+      "long till",
+      "long",
+      "till",
+      "till feedback",
+      "feedback",
+      "does jobjack",
+      "does save"
+    ]
+  },
+  {
+    "question": "Nothing displaying?",
+    "keywords": [
+      "displaying",
+      "work",
+      "employment status",
+      "feedback",
+      "extending contracts",
+      "extending",
+      "experience needed"
+    ]
+  },
+  {
+    "question": "No timeslot?",
+    "keywords": [
+      "timeslot",
+      "work",
+      "feedback",
+      "extending contracts",
+      "extending",
+      "experience needed",
+      "experience"
+    ]
+  },
+  {
+    "question": "Rescheduling interviews?",
+    "keywords": [
+      "rescheduling",
+      "interviews",
+      "rescheduling interviews",
+      "work",
+      "extending",
+      "experience needed",
+      "experience"
+    ]
+  },
+  {
+    "question": "Extending contracts?",
+    "keywords": [
+      "extending contracts",
+      "extending",
+      "contracts",
+      "work",
+      "deleted",
+      "feedback",
+      "experience needed"
+    ]
+  },
+  {
+    "question": "Referral reject or decline?",
+    "keywords": [
+      "decline",
+      "referral reject",
+      "reject",
+      "reject decline",
+      "referral",
+      "email",
+      "experience needed"
+    ]
+  },
+  {
+    "question": "Referral not yourself?",
+    "keywords": [
+      "referral",
+      "work",
+      "employment status",
+      "feedback",
+      "extending contracts",
+      "extending",
+      "experience needed"
+    ]
+  },
+  {
+    "question": "Referral 75% complete?",
+    "keywords": [
+      "referral complete",
+      "complete",
+      "referral",
+      "work",
+      "employment",
+      "extending",
+      "experience needed"
+    ]
+  },
+  {
+    "question": "Referral JJ reward?",
+    "keywords": [
+      "referral jj",
+      "jj reward",
+      "jj",
+      "reward",
+      "referral",
+      "email",
+      "experience needed"
+    ]
+  },
+  {
+    "question": "Referral job not available?",
+    "keywords": [
+      "referral job",
+      "job available",
+      "available",
+      "job",
+      "referral",
+      "employment",
+      "extending"
+    ]
+  },
+  {
+    "question": "Referral link sharing?",
+    "keywords": [
+      "referral link",
+      "sharing",
+      "link sharing",
+      "link",
+      "referral",
+      "employment",
+      "extending"
+    ]
+  },
+  {
+    "question": "Referral receive reward?",
+    "keywords": [
+      "referral receive",
+      "receive reward",
+      "receive",
+      "reward",
+      "referral",
+      "work",
+      "employment"
+    ]
+  }
+]
